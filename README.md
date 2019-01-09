@@ -1,2 +1,2 @@
 # acloudguru-serverless-azure  
-Authored by Todd LArson
+Authored by Todd Larson
